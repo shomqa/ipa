@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <key>software-package</key>
                     <key>url</key>
-                    <string>https://github.com/shomqa/ipa/releases/download/v777/2.12.0.ipa</string>
+                    <string>https://github.com/shomqa/ipa/releases/download/v1/OK.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>ru.tatneft.gasstations</string>
+                <string>ru.odnoklassniki.iphone</string>
                 <key>bundle-version</key>
-                <string>2.12.0</string>
+                <string>11.63.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>АЗС ТатНефть</string>
+                <string>OK</string>
             </dict>
         </dict>
     </array>
